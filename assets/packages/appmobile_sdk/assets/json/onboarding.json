@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "updated": 20230702,
+  "context": "onboarding",
+  "questions": [
+    {
+      "id": 1,
+      "content": "What brings you to Dream Cash?",
+      "anwser": [
+        {
+          "id": 1,
+          "content": "Post-Breakup Healing"
+        },
+        {
+          "id": 2,
+          "content": "Be a better partner"
+        },
+        {
+          "id": 3,
+          "content": "Dating Advice"
+        },
+        {
+          "id": 4,
+          "content": "Self-Love"
+        },
+        {
+          "id": 5,
+          "type": "textbox",
+          "content": "Other (Open Answer)"
+        }
+      ]
+    },
+   
+    {
+      "id": 2,
+      "content": "What is your current relationship status?",
+      "anwser": [
+        {
+          "id": 1,
+          "content": "Single"
+        },
+        {
+          "id": 2,
+          "content": "In-a Relationship"
+        },
+        {
+          "id": 3,
+          "content": "It\\’s Complicated"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content": "Are you satisfied with your current love life? ",
+      "anwser": [
+        {
+          "id": 1,
+          "content": "No, I\\’m very unhappy"
+        },
+        {
+          "id": 2,
+          "content": "Yes, but it could be better"
+        },
+        {
+          "id": 3,
+          "content": "Yes! I\\’ve very happy"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content": "Scale of 1-10, How do you feel about the level of intimacy and physical affection in your relationship?",
+      "type": "slider",
+      "anwser": [
+        {
+          "id": 1,
+          "content": "Intimacy",
+          "value": 0.5
+
+        },
+        {
+          "id": 2,
+          "content": "Physical Affection",
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content": "Are you experiencing any of the following?",
+      "anwser": [
+        {
+          "id": 1,
+          "content": "Depression"
+        },
+        {
+          "id": 2,
+          "content": "Anxiety"
+        },
+        {
+          "id": 3,
+          "content": "Loneliness"
+        },
+        {
+          "id": 4,
+          "content": "Anger"
+        },
+        {
+          "id": 5,
+          "content": "No, nothing bothers me"
+        },
+        {
+          "id": 6,
+          "type": "textbox",
+          "content": "Other"
+        }
+      ]
+    }
+  ]
+}
