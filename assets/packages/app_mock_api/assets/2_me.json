@@ -1,0 +1,21 @@
+{
+  "id": 27,
+  "username": "tonycash",
+  "date_of_birth": "1993/12/04",
+  "country": "Vietnam",
+  "gender": "male",
+  "email": "hphuc@gmail.com",
+  "crypto_network": "bsc",
+  "crypto_address": "abc123",
+  "paypal_email": "ryan@gmail.com",
+  "level_number": 1,
+  "created_user": "mobileapp",
+  "updated_user": "tonycash",
+  "created_at": "2025-02-09T19:25:29",
+  "updated_at": "2025-02-26T15:48:18",
+  "points": 895,
+  "available_to_withdraw": 120.25,
+  "all_time_profit": 199.5,
+  "payouts_pending": 67.5,
+  "withdrawn": 0.0
+}
